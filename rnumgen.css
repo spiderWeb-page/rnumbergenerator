@@ -1,0 +1,9 @@
+body{text-align: center;
+    justify-items: center;
+    background-color: green;
+    h1{font-size: 500%;}
+    div{background-color: black; width: 940px; height: 370px; border: 2px solid white; border-radius: 50px;}
+    #myP{font-size: 400%; font-weight: bold; color: white;}
+    #clickMe{font-size: larger; background-color: red; border-radius: 30px; font-weight: bold;}
+input{font-size: large; width: 50px; border-radius: 30px; border-color: black; font-weight: bold;}
+label{font-size: x-large; font-weight: bolder; color: white;}}
